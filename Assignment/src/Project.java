@@ -23,4 +23,8 @@ class Project
 		this.role = role;
 		this.responsibilities = responsibilities;
 	}
+
+	void display()
+	{
+	}
 }

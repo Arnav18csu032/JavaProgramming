@@ -25,5 +25,8 @@ class Address
 		this.pinCode = pinCode;
 
 	}
+	void display()
+	{
+	}
 
 }

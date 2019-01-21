@@ -24,5 +24,9 @@ class Qualification
 
 	}
 
-}
+	void display()
+	{
 
+	}
+
+}

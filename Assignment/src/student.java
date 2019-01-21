@@ -35,4 +35,9 @@ class student
 		this.email = email;
 		this.contactNo = contactNo; 
 	}
+
+	void display()
+	{
+
+	}
 }
